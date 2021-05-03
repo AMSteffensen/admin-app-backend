@@ -1,16 +1,39 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "title": "Gårdagen!",
+      "body": "Jeg har det enda bedre idag!",
+      "publisert": "2021-05-04",
+      "id": "4c-BWsg"
+    },
+    {
+      "title": "morgen dagen",
+      "body": "jeg skal ut på butikken",
+      "publisert": "2021-05-04",
+      "id": "8SRg5Mh"
+    },
+    {
+      "title": "hallo",
+      "body": "Jeg har det bedre en de fleste her til stede..",
+      "publisert": "2021-05-06",
+      "id": "ut4p1IV"
     }
   ],
-  "comments" : [
+  "users": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "1",
+      "name": "Andreas Steffensen",
+      "email": "andreas@steffensen.com"
+    },
+    {
+      "id": "2",
+      "name": "Ivar Frank",
+      "email": "frank@ivar.com"
+    },
+    {
+      "id": "3",
+      "name": "Ingrid Marie",
+      "email": "marie@ingrid.com"
     }
   ]
 }
